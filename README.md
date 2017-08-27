@@ -55,8 +55,8 @@ Your Web application should include the following:
   - MS Azure, HerokuCloud, Amazon, all are fine
 - Consume moderate quantities of pizza and bira.
 
-### Public Project Defense
-
+### Public Project Defensesdasda
+sadsad
 Each team will have to make a **public defense** of its work in front of a trainer (for about 30 minutes), in which each of the team members will answer to the trainer's questions individually, **one at a time**. If a trainer is suspicious about a team member's contribution to the project, additional tasks and questions may be given. Team members that have attended the defense, but have no significant contribution to the project, nor any significant knowledge of Angular and the technologies around it, will not be awarded the full amount of points, if any.
 
 The public defense includes:
